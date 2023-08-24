@@ -1,0 +1,30 @@
+#Rubana Syeda
+#gnk231
+#11317615
+#BINF 351
+#Jin Lingling
+
+
+Part b)
+sort gene_codons.txt | uniq -c > gene_counts+codons.txt
+
+
+part d)
+
+//////////////commands for First position//////////
+command to find all possible codon substitution in first position
+-->  grep "^.${j}${k}" $1 | sort -k2
+
+gnk231@tux7:~/binf2023/assignments/ass4> grep "[AC]GA" gene_counts+codons.txt
+gnk231@tux7:~/binf2023/assignments/ass4> grep "[AC]GG" gene_counts+codons.txt
+gnk231@tux7:~/binf2023/assignments/ass4> grep "[CT]TA" gene_counts+codons.txt
+      1 CTA
+gnk231@tux7:~/binf2023/assignments/ass4> grep "[CT]TG" gene_counts+codons.txt
+      8 CTG
+
+
+//////////////commands for Second position//////////
+command to find all possible codon substitution in second position
+-->  grep "^${j}.${k}" $1 | sort -k2i
+
+gnk231@tux7:~/binf2023/assignments/ass4> grep "T[AG]A" gene_counts+codons.txt

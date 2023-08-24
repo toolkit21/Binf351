@@ -1,0 +1,8 @@
+#Rubana Syeda
+#gnk231
+#11317615
+#BINF 351
+#Jin Lingling
+
+
+gnk231@tux5:~/binf2023/assignments/ass3> fuzzpro -sequence flyp:* -pattern "K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]" -pmismatch 2 -rformat excel -outfile flyp_ubiq1.txt

@@ -1,0 +1,90 @@
+#Rubana Syeda
+#gnk231
+#11317615
+#BINF 351
+#Jin Lingling
+
+b)
+Quagga: MF041986.1
+Zebra top hit: JX312717.1
+Donkey top hit: MK982180.1
+
+Quagga is more closely related to Zebras than Donkeys
+
+After performing the BLAST search of Quagga 12S Ribosomal RNA gene  vs Zebra and Quagga 12S Ribosomal RNA gene  vs. Donkey, the similarity of their sequences are:
+	Quagga versus Zebra: 96.39%
+	Quagga versus Donkey: 96.14%
+
+The alignment scores are:
+	Quagga versus Zebra: 684
+	Quagga versus Donkey: 678
+
+The ratios are similar however, Zebra is more closely related to Quagga
+
+
+d)
+The conclusion from part B stands that Zebra is more closely related to Quagga than Donkey. As shown in the Distant Matrix, Quagga and Zebra's 
+evolutionary distance is lower than that of Quagga and Donkey. 
+
+Also in the Prettyplot, it can be seen that Quagga and Donkey have more mismatches than Zebra
+
+However all three species are very closely related but Zebra is more closely related to Quagga
+
+//////////////////// MSA ///////////////////////////////////
+gnk231@tux6:~/binf2023/assignments/ass3> emma -sequence fasta::all.fasta -outseq all.aln -dendoutfile all.dnd -slow true -noendgaps
+Multiple sequence alignment (ClustalW wrapper)
+
+
+
+ CLUSTAL W (1.83) Multiple Sequence Alignments
+
+
+
+Sequence type explicitly set to DNA
+Sequence format is Pearson
+Sequence 1: quagga          415 bp
+Sequence 2: zebra           415 bp
+Sequence 3: donkey          415 bp
+Start of Pairwise alignments
+Aligning...
+Sequences (1:2) Aligned. Score:  96
+Sequences (1:3) Aligned. Score:  96
+Sequences (2:3) Aligned. Score:  95
+Guide tree        file created:   [03562522C]
+Start of Multiple Alignment
+There are 2 groups
+Aligning...
+Group 1: Sequences:   2      Score:7714
+Group 2: Sequences:   3      Score:7698
+Alignment Score 8498
+GCG-Alignment file created      [03562522B]
+
+
+///////////////////// Prettyplot //////////////////////////
+gnk231@tux7:~/binf2023/assignments/ass3> prettyplot -ccolours true -consensus -graph cps -sequence all.fasta
+Draw a sequence alignment with pretty formatting
+Created prettyplot.ps
+gnk231@tux7:~/binf2023/assignments/ass3> mv prettyplot.ps qzd.all.ps
+gnk231@tux7:~/binf2023/assignments/ass3> ls
+all.fasta      flyp_ubiq1.txt        PS00299.fasta      quagga.fasta*  zebra.fasta*
+donkey.fasta*  np_001163858.fuzzpro  ps00299.showalign  qzd.all.ps
+gnk231@tux7:~/binf2023/assignments/ass3> ps2pdf all.ps
+
+//////// Distance matrix //////////////////
+
+gnk231@tux6:~/binf2023/assignments/ass3> distmat -nucmethod 0 -sequence all.fasta -outfile all.distmat
+Create a distance matrix from a multiple sequence alignment
+gnk231@tux6:~/binf2023/assignments/ass3> cat all.d
+all.distmat  all.dnd
+gnk231@tux6:~/binf2023/assignments/ass3> cat all.distmat
+Distance Matrix
+---------------
+
+Uncorrected for Multiple Substitutions
+Using base positions 123 in the codon
+Gap weighting is 0.000000
+
+            1       2       3
+          0.00    3.61    3.86          quagga 1
+                  0.00    4.10          zebra 2
+                          0.00          donkey 3

@@ -1,0 +1,43 @@
+#Rubana Syeda
+#gnk231
+#11317615
+#BINF 351
+#Jin Lingling
+
+
+1.
+First position synonymous substitutons
+All syn subtitution	Synonymous codons in the 45 codons
+AGA, CGA = arg		0
+AGG,CGG = arg		0
+CTA,TTA = leu		1 CTA
+CTG,TTG = leu		8 CTG
+
+Total synonymous substitutions = 1(1) + 8(1) = 9
+Total substitutions possible = 45*3 = 135
+Fraction of single mutations in first position that are synonymous in the 45 codons
+= 9/135x100 = 6.67% synonymous
+Fraction of single mutations in first position that are non-synonymous in the 45 codons
+126/135x100 = 93.37%
+
+
+Second position synonymous substitutons
+All syn subtitution  Synonymous codons
+TAA,TGA=Stop	    0	
+
+Total synonymous substitution in second position
+0/135 = 0% synonymous
+Total non synonymous substitution in second position
+135/135x100 = 100%
+
+
+2. “At which codon position is natural selection likely to have
+the greatest effect and are nucleotides most likely to be conserved?”
+
+Natural selection is likely to have greatest effect in 2nd codon position because it has the least synonymous substituition meaning more likely to be mutated per substitution causing defects in the gene and favoring natural selection.
+Conserved nucleotides are most likely to be in the 2nd position because non-sysnonymous substitutions are less
+likely than synonymous substitution therefore nulceotides will not be substituted as much here as other positions.
+
+
+
+

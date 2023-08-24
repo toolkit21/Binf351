@@ -1,0 +1,8 @@
+#Rubana Syeda
+#gnk231
+#11317615
+#BINF 351
+#Jin Lingling
+
+
+((I:0.5,II:0.5):1.5,(III:1,IV:1):1.5);

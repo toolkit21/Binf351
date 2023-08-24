@@ -1,0 +1,63 @@
+SeqName	Start	End	Score	Strand	Pattern	Mismatch
+NP_001163644.1	27	52	24	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	2
+SeqName	Start	End	Score	Strand	Pattern	Mismatch
+NP_788403.2	833	858	24	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	2
+SeqName	Start	End	Score	Strand	Pattern	Mismatch
+NP_001137904.1	29	54	26	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	.
+SeqName	Start	End	Score	Strand	Pattern	Mismatch
+NP_001137903.1	29	54	26	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	.
+SeqName	Start	End	Score	Strand	Pattern	Mismatch
+NP_001137669.1	348	373	24	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	2
+SeqName	Start	End	Score	Strand	Pattern	Mismatch
+NP_001137668.1	348	373	24	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	2
+SeqName	Start	End	Score	Strand	Pattern	Mismatch
+NP_001137667.1	348	373	24	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	2
+SeqName	Start	End	Score	Strand	Pattern	Mismatch
+NP_001097539.1	3064	3089	24	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	2
+SeqName	Start	End	Score	Strand	Pattern	Mismatch
+NP_001097538.1	2989	3014	24	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	2
+SeqName	Start	End	Score	Strand	Pattern	Mismatch
+NP_001097537.1	516	541	24	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	2
+SeqName	Start	End	Score	Strand	Pattern	Mismatch
+NP_001097535.1	2914	2939	24	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	2
+SeqName	Start	End	Score	Strand	Pattern	Mismatch
+NP_729285.3	2883	2908	24	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	2
+SeqName	Start	End	Score	Strand	Pattern	Mismatch
+NP_001036592.2	1316	1341	24	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	2
+SeqName	Start	End	Score	Strand	Pattern	Mismatch
+NP_001096882.1	455	480	24	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	2
+SeqName	Start	End	Score	Strand	Pattern	Mismatch
+NP_001096881.1	455	480	24	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	2
+SeqName	Start	End	Score	Strand	Pattern	Mismatch
+NP_001096880.1	455	480	24	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	2
+SeqName	Start	End	Score	Strand	Pattern	Mismatch
+NP_001036333.1	1618	1643	24	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	2
+SeqName	Start	End	Score	Strand	Pattern	Mismatch
+NP_001033948.1	348	373	24	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	2
+SeqName	Start	End	Score	Strand	Pattern	Mismatch
+NP_001033947.1	348	373	24	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	2
+SeqName	Start	End	Score	Strand	Pattern	Mismatch
+NP_788312.2	463	488	24	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	2
+SeqName	Start	End	Score	Strand	Pattern	Mismatch
+NP_996350.1	454	479	24	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	2
+SeqName	Start	End	Score	Strand	Pattern	Mismatch
+NP_996156.1	29	54	24	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	2
+SeqName	Start	End	Score	Strand	Pattern	Mismatch
+NP_995994.1	27	52	26	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	.
+NP_995994.1	103	128	26	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	.
+NP_995994.1	179	204	26	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	.
+NP_995994.1	255	280	26	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	.
+NP_995994.1	331	356	26	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	.
+NP_995994.1	407	432	26	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	.
+NP_995994.1	483	508	26	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	.
+NP_995994.1	559	584	26	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	.
+NP_995994.1	635	660	26	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	.
+NP_995994.1	711	736	26	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	.
+SeqName	Start	End	Score	Strand	Pattern	Mismatch
+NP_729264.2	29	54	26	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	.
+SeqName	Start	End	Score	Strand	Pattern	Mismatch
+NP_523422.3	334	359	24	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	2
+SeqName	Start	End	Score	Strand	Pattern	Mismatch
+NP_730601.1	56	81	24	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	2
+SeqName	Start	End	Score	Strand	Pattern	Mismatch
+NP_730600.1	56	81	24	+	pattern: K-x(2)-[LIVM]-x-[DESAK]-x(3)-[LIVM]-[PAQ]-x(3)-Q-x-[LIVM]-[LIVMC]-[LIVMFY]-x-G-x(4)-[DE]	2

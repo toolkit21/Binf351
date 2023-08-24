@@ -1,0 +1,17 @@
+#Rubana Syeda
+#gnk231
+#11317615
+#BINF 351
+#Jin Lingling
+
+gnk231@tux5:~/binf2023/assignments/ass4> python quality_checker.py example3.fastq 3
+Quality score in example3.fastq is not valid
+gnk231@tux5:~/binf2023/assignments/ass4> python quality_checker.py example1.fastq 3
+Sequence in example1.fastq is not valid
+gnk231@tux5:~/binf2023/assignments/ass4> python quality_checker.py example2.fastq 3
+example2.fastq meets the specified quality threshold
+gnk231@tux5:~/binf2023/assignments/ass4> python quality_checker.py example2.fastq 45
+example2.fastq meets the specified quality threshold
+gnk231@tux5:~/binf2023/assignments/ass4> python quality_checker.py example2.fastq 100
+example2.fastq does not meet the specified quality threshold
+gnk231@tux5:~/binf2023/assignments/ass4>

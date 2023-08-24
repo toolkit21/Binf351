@@ -1,0 +1,17 @@
+#Rubana Syeda
+#gnk231
+#11317615
+#BINF 351
+#Jin Lingling
+
+Distance Matrix
+---------------
+
+Uncorrected for Multiple Substitutions
+Using base positions 123 in the codon
+Gap weighting is 0.000000
+
+	    1	    2	    3
+	  0.00	  3.61	  3.86		quagga 1
+		  0.00	  4.10		zebra 2
+			  0.00		donkey 3

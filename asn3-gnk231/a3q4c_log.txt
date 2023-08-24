@@ -1,0 +1,11 @@
+#Rubana Syeda
+#gnk231
+#11317615
+#BINF 351
+#Jin Lingling
+
+gnk231@tux7:~/binf2023/assignments/ass3> cat flyp_ubiq1.txt | cut -f 1,7 | awk '$2 == "."' | cut -f 1 | uniq
+NP_001137904.1
+NP_001137903.1
+NP_995994.1
+NP_729264.2

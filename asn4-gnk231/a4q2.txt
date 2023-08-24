@@ -1,0 +1,24 @@
+#Rubana Syeda
+#gnk231
+#11317615
+#BINF 351
+#Jin Lingling
+
+
+a) about 233 to 333 geneerations
+
+140,000/100 = 1400
+1400/6 = 233 generations (Lower end)
+
+200,000/100 = 2000
+2000/6 = 333 generaions (Higher end)
+
+
+b) 3.2 to 4.6 days
+20 min x 233 generations = 4660 min
+4660 min/60/24 = 3.2 days
+
+20 min x 333 generations = 6660 min
+6660 min/60/24 = 4.6 days
+
+
